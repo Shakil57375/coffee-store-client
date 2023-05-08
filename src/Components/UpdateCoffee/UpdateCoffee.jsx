@@ -1,0 +1,12 @@
+/* eslint-disable no-unused-vars */
+import React from 'react';
+
+const UpdateCoffee = () => {
+    return (
+        <div>
+            <h1>Update coffee</h1>
+        </div>
+    );
+};
+
+export default UpdateCoffee;
